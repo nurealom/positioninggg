@@ -1,0 +1,40 @@
+.container{
+min-height:400px; 
+background-color: green;
+position: relative;
+}
+.good1, .good2, .good3, .good4, .good5{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+.good1{
+	background-color: black;
+}
+
+
+.good2{
+	background-color: red;
+	top:0;
+	right: 00;
+
+}
+.good3{
+	background-color: pink;
+	left: 0;
+	bottom: 0;
+
+}
+.good4{
+	background-color: yellow;
+	right: 0;
+	bottom: 0;
+
+}
+.good5{
+	background-color: #ddd;
+	left: 0;
+	right: 0;
+	margin:150px auto;
+
+}
